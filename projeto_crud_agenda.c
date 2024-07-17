@@ -143,7 +143,7 @@ int main()
 			    if(alterar[0]=='2') strcpy(agenda[i].email, dadoAlterado);
 			    if(alterar[0]=='3') strcpy(agenda[i].endereco, dadoAlterado);
 			    if(alterar[0]=='4') strcpy(agenda[i].datanascimento, dadoAlterado);
-			    printf("\Dado alterado!\n");
+			    printf("\nDado alterado!\n");
 			    break;
 			}
 			
